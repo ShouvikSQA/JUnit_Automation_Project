@@ -12,7 +12,7 @@ And also Automates submission of [Guest Registration Form](https://demo.wpeveres
 * Junit
 
 ## Project Description :
-1. 
+###1. 
 
 Automate the following webform
 https://www.digitalunite.com/practice-webform-learners
@@ -21,11 +21,11 @@ https://www.digitalunite.com/practice-webform-learners
 Steps for Automation:
 1. Input all the fields. During the web form submission process, upload any file (2mb limit)
 2. Then click on submit button
-3. After successful submission, assert the expected message as: Thank you for your submission!
+3. After successful submission, assert the expected message as: Thank you for your submission!.
 
 
-
-2. Automate this webform:https://demo.wpeverest.com/user-registration/guest-registration-form/
+###2.
+ Automate this webform:https://demo.wpeverest.com/user-registration/guest-registration-form/
 
 Steps for Automation:
 1. Input following fields: Firstname, Lastname, UserEmail, Gender, Date of Birth, Nationality, Phone, Country(Bangladesh), Terms & Conditions
