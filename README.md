@@ -1,7 +1,7 @@
 # JUnit_Automation
 
-## Summary 
-  -This Junit WebDriver project automates the web form submission on [Digital Unite Practice Webform](https://www.digitalunite.com/practice-webform-learners). 
+## Project Summary 
+  This Junit WebDriver project automates the web form submission on [Digital Unite Practice Webform](https://www.digitalunite.com/practice-webform-learners). 
   And also Automates submission of [Guest Registration Form](https://demo.wpeverest.com/user-registration/guest-registration-form/)
 
 ## Tools Used:
